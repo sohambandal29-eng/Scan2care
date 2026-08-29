@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292278268904",
+    "project_id": "patient-4e01e8fa",
+    "storage_bucket": "patient-4e01e8fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292278268904:android:44108ffcf35cb9e877ea5d",
+        "android_client_info": {
+          "package_name": "com.example.patient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmh5ryR1OI8e75qLJLOhzr9AjMiSjgqLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
